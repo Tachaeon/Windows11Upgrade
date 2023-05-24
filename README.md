@@ -5,7 +5,7 @@ This is my take on the Windows 11 Upgrade conundrum. This was born out of frustr
 ## Files
 1.HardwareReadiness.ps1
 - **Run as System.**
-- This is Microsoft's HardwareReadiness script that can be found [here] [hardware].
+- This is Microsoft's HardwareReadiness script that can be found here https://techcommunity.microsoft.com/t5/microsoft-intune-blog/understanding-readiness-for-windows-11-with-microsoft-endpoint/ba-p/2770866.
 - I have added a directory check at the start as well as forced Windows notifications to be on.
 - At the end I create a file with the results of the script based on CAPABLE or NOT CAPABLE.
 
@@ -31,5 +31,3 @@ This is my take on the Windows 11 Upgrade conundrum. This was born out of frustr
 - **Run as logged in user.**
 - Final Toast Notification letting the user know to restart their computer.
 - In my testing there isn't the normal options in the shutdown menu for "Reboot and Update" or "Shutdown and Update".
-
-[hardware]: <https://techcommunity.microsoft.com/t5/microsoft-intune-blog/understanding-readiness-for-windows-11-with-microsoft-endpoint/ba-p/2770866>
