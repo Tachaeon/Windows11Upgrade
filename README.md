@@ -1,6 +1,6 @@
 # Windows 11 Upgrade Scripts
 
-This is my take on the Windows 11 Upgrade conundrum. This was born out of frustration of the Windows 11 Upgrade Assistant just rebooting without notification after the upgrade was complete. This was scripted for a KACE environment so you may tailor anything here to fit your needs. The scripts are numbered in the order in which they need to run and are further explained below.
+This is my take on the Windows 11 Upgrade conundrum. This was born out of frustration of the Windows 11 Upgrade Assistant just rebooting without notification after the upgrade was complete. This was scripted for a KACE environment without the availablity of SCCM or Intune. You may tailor anything here to fit your needs. The scripts are numbered in the order in which they need to run and are further explained below.
 
 ## Files
 1.HardwareReadiness.ps1
