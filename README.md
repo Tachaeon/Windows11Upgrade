@@ -13,7 +13,7 @@ This is my take on the Windows 11 Upgrade conundrum. This was born out of frustr
 - **Run as logged in user.**
 - At the top I set variables for the NOT CAPABLE document to be later output by the "Not Capable" Toast notification.
 - Everything from here on out in the remainder of the scripts is determinate on either file existing.
-- You will have to taylor the toast notification's message to your liking.
+- You will have to tailor the toast notification's message to your liking.
 
 3.Windows11_Download_KACE.ps1
 - **Run as logged in user.**
